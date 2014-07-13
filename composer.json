@@ -17,7 +17,7 @@
 		"kartik-v/yii2-grid": "*",
 		"kartik-v/yii2-detail-view": "*",
 		"kartik-v/yii2-icons": "*",
-		"robregonm/yii2-pdf": "dev-master"
+		"mpdf/mpdf": "dev-master"
 	},
 	"require-dev": {
 		"yiisoft/yii2-codeception": "*",
