@@ -17,7 +17,7 @@
 		"kartik-v/yii2-grid": "*",
 		"kartik-v/yii2-detail-view": "*",
 		"kartik-v/yii2-icons": "*",
-		"mpdf/mpdf": "dev-master"
+		"phpoffice/phpexcel": "dev-develop"
 	},
 	"require-dev": {
 		"yiisoft/yii2-codeception": "*",
